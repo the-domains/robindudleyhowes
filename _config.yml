@@ -1,4 +1,3 @@
-layout_spectrum: 0.7494224582333118
 typography_spectrum: 0.1596623668447137
 color:
   brandStrength: 0.7445493538398296
@@ -11,4 +10,9 @@ color:
     - '#84815B'
     - '#4A1A2C'
     - '#8E3557'
+layout_spectrum: 0.7494224582333118
 name: robindudleyhowes
+navigation:
+  - name: BLOG
+    url: robindudleyhowes.blogspot.com
+    type: external
